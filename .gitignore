@@ -19,6 +19,10 @@ ENV/
 # Streamlit
 .streamlit/secrets.toml
 
+# Binaries & Tunneling
+cloudflared.exe
+push_to_github.py
+
 # OS
 Thumbs.db
 .DS_Store
