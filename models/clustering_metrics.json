@@ -1,0 +1,96 @@
+{
+    "optimal_k": 4,
+    "elbow_inertias": {
+        "2": 389210.9,
+        "3": 342665.3,
+        "4": 299864.65,
+        "5": 269284.51,
+        "6": 251388.92
+    },
+    "silhouette_scores": {
+        "2": 0.3078,
+        "3": 0.2264,
+        "4": 0.2317,
+        "5": 0.2317,
+        "6": 0.1766
+    },
+    "pca_variance": {
+        "2D_explained_variance_ratio": [
+            0.4784,
+            0.197
+        ],
+        "2D_total_variance": 0.6753,
+        "3D_explained_variance_ratio": [
+            0.4784,
+            0.197,
+            0.128
+        ],
+        "3D_total_variance": 0.8033
+    },
+    "cluster_profiles": {
+        "0": {
+            "count": 16307,
+            "percentage": 30.33,
+            "mean_carat": 0.944,
+            "mean_price_inr": 385825.05,
+            "mean_price_usd": 4648.49,
+            "mean_volume": 152.7,
+            "cut_score": 2.65,
+            "color_score": 3.34,
+            "clarity_score": 2.49,
+            "most_common_cut": "Ideal",
+            "most_common_color": "G",
+            "most_common_clarity": "SI1",
+            "segment_name": "Mid-range Balanced Diamonds",
+            "description": "Popular commercial-grade diamonds (0.6 - 1.1 ct) offering good balance of size and affordability."
+        },
+        "1": {
+            "count": 23032,
+            "percentage": 42.84,
+            "mean_carat": 0.403,
+            "mean_price_inr": 92315.94,
+            "mean_price_usd": 1112.24,
+            "mean_volume": 66.16,
+            "cut_score": 3.28,
+            "color_score": 3.77,
+            "clarity_score": 3.81,
+            "most_common_cut": "Ideal",
+            "most_common_color": "E",
+            "most_common_clarity": "VS2",
+            "segment_name": "Affordable Small Diamonds",
+            "description": "Entry-level, lightweight stones (<0.6 ct) suitable for daily jewelry and budget-conscious buyers."
+        },
+        "2": {
+            "count": 7669,
+            "percentage": 14.26,
+            "mean_carat": 1.668,
+            "mean_price_inr": 928481.16,
+            "mean_price_usd": 11186.52,
+            "mean_volume": 270.53,
+            "cut_score": 2.87,
+            "color_score": 2.18,
+            "clarity_score": 2.33,
+            "most_common_cut": "Premium",
+            "most_common_color": "H",
+            "most_common_clarity": "SI2",
+            "segment_name": "Premium Heavy Diamonds",
+            "description": "Substantial, high-carat (>1.3 ct) investment-grade diamonds commanding top luxury market valuations."
+        },
+        "3": {
+            "count": 6761,
+            "percentage": 12.57,
+            "mean_carat": 0.803,
+            "mean_price_inr": 296483.99,
+            "mean_price_usd": 3572.1,
+            "mean_volume": 131.57,
+            "cut_score": 2.27,
+            "color_score": 3.71,
+            "clarity_score": 2.63,
+            "most_common_cut": "Premium",
+            "most_common_color": "E",
+            "most_common_clarity": "SI1",
+            "segment_name": "High-Clarity Fine Solitaires",
+            "description": "Precision-cut, high-clarity diamonds with excellent optical symmetry and exceptional brilliance."
+        }
+    }
+}

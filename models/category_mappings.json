@@ -1,0 +1,64 @@
+{
+    "cut_map": {
+        "Fair": 0,
+        "Good": 1,
+        "Very Good": 2,
+        "Premium": 3,
+        "Ideal": 4
+    },
+    "color_map": {
+        "J": 0,
+        "I": 1,
+        "H": 2,
+        "G": 3,
+        "F": 4,
+        "E": 5,
+        "D": 6
+    },
+    "clarity_map": {
+        "I1": 0,
+        "SI2": 1,
+        "SI1": 2,
+        "VS2": 3,
+        "VS1": 4,
+        "VVS2": 5,
+        "VVS1": 6,
+        "IF": 7
+    },
+    "carat_cat_map": {
+        "Light": 0,
+        "Medium": 1,
+        "Heavy": 2
+    },
+    "cut_order": [
+        "Fair",
+        "Good",
+        "Very Good",
+        "Premium",
+        "Ideal"
+    ],
+    "color_order": [
+        "J",
+        "I",
+        "H",
+        "G",
+        "F",
+        "E",
+        "D"
+    ],
+    "clarity_order": [
+        "I1",
+        "SI2",
+        "SI1",
+        "VS2",
+        "VS1",
+        "VVS2",
+        "VVS1",
+        "IF"
+    ],
+    "carat_cat_order": [
+        "Light",
+        "Medium",
+        "Heavy"
+    ]
+}
